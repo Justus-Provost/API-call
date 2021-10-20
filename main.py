@@ -1,2 +1,1 @@
-language = "bash"
-run = ""
+print("hello, y'all")
